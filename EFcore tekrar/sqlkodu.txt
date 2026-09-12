@@ -1,0 +1,47 @@
+IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = 'students')
+BEGIN
+    CREATE DATABASE students;
+END
+GO
+
+USE students;
+GO
+
+IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Students' and xtype='U')
+BEGIN
+    CREATE TABLE Students (
+        Id INT IDENTITY(1,1) PRIMARY KEY,
+        FirstName NVARCHAR(50) NOT NULL,
+        LastName NVARCHAR(50) NOT NULL,
+        [Group] NVARCHAR(20), -- 'Group' SQL-də xüsusi söz olduğu üçün [] içində yazılır
+        Gender NVARCHAR(15),
+        Age INT
+    );
+END
+GO
+
+
+
+USE students;
+GO
+
+INSERT INTO Students (FirstName, LastName, [Group], Gender, Age)
+VALUES 
+('Ali', 'Aliyev', 'CS101', 'Male', 20),
+('Aysel', 'Mammadova', 'CS101', 'Female', 19),
+('Elvin', 'Hasanov', 'CS102', 'Male', 21),
+('Leyla', 'Quliyeva', 'CS102', 'Female', 20),
+('Tariq', 'Huseynov', 'IT201', 'Male', 22),
+('Gunel', 'Abbasova', 'IT201', 'Female', 19),
+('Ramin', 'Rzayev', 'CS101', 'Male', 20),
+('Nigar', 'Safarova', 'CS103', 'Female', 21),
+('Kanan', 'Novruzov', 'IT202', 'Male', 23),
+('Sabina', 'Karimova', 'IT202', 'Female', 20),
+('Orkhan', 'Rustamov', 'CS102', 'Male', 22),
+('Fidan', 'Aliyeva', 'CS103', 'Female', 19),
+('Murad', 'Ismayilov', 'IT201', 'Male', 21),
+('Aynur', 'Mahmudova', 'CS101', 'Female', 20),
+('Samir', 'Qasimov', 'IT202', 'Male', 22);
+GO
+
+
