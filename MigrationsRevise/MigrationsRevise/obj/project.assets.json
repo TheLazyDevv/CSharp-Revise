@@ -3966,6 +3966,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Microsoft.EntityFrameworkCore.Design >= 8.0.31",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.31",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.31"
     ]
@@ -3977,11 +3978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\MigrationsRevise\\MigrationsRevise\\MigrationsRevise.csproj",
+      "projectUniqueName": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\MigrationsRevise\\MigrationsRevise\\MigrationsRevise.csproj",
       "projectName": "MigrationsRevise",
-      "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\MigrationsRevise\\MigrationsRevise\\MigrationsRevise.csproj",
+      "projectPath": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\MigrationsRevise\\MigrationsRevise\\MigrationsRevise.csproj",
       "packagesPath": "C:\\Users\\Ibrahim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\MigrationsRevise\\MigrationsRevise\\obj\\",
+      "outputPath": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\MigrationsRevise\\MigrationsRevise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4020,6 +4021,12 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[8.0.31, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[8.0.31, )"

@@ -1,71 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ibrahim\\source\\repos\\MigrationsRevise\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B62429E1-5D8C-4A72-8FD1-1B56CE3C6CF7}|MigrationsRevise\\MigrationsRevise.csproj|c:\\users\\ibrahim\\source\\repos\\migrationsrevise\\migrationsrevise\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B62429E1-5D8C-4A72-8FD1-1B56CE3C6CF7}|MigrationsRevise\\MigrationsRevise.csproj|solutionrelative:migrationsrevise\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B62429E1-5D8C-4A72-8FD1-1B56CE3C6CF7}|MigrationsRevise\\MigrationsRevise.csproj|c:\\users\\ibrahim\\source\\repos\\migrationsrevise\\migrationsrevise\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B62429E1-5D8C-4A72-8FD1-1B56CE3C6CF7}|MigrationsRevise\\MigrationsRevise.csproj|solutionrelative:migrationsrevise\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B62429E1-5D8C-4A72-8FD1-1B56CE3C6CF7}|MigrationsRevise\\MigrationsRevise.csproj|c:\\users\\ibrahim\\source\\repos\\migrationsrevise\\migrationsrevise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B62429E1-5D8C-4A72-8FD1-1B56CE3C6CF7}|MigrationsRevise\\MigrationsRevise.csproj|solutionrelative:migrationsrevise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\MigrationsRevise\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\MigrationsRevise\\MigrationsRevise\\Student.cs",
-              "RelativeDocumentMoniker": "MigrationsRevise\\Student.cs",
-              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\MigrationsRevise\\MigrationsRevise\\Student.cs",
-              "RelativeToolTip": "MigrationsRevise\\Student.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA7wAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T16:25:30.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\MigrationsRevise\\MigrationsRevise\\StudentContext.cs",
-              "RelativeDocumentMoniker": "MigrationsRevise\\StudentContext.cs",
-              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\MigrationsRevise\\MigrationsRevise\\StudentContext.cs",
-              "RelativeToolTip": "MigrationsRevise\\StudentContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T16:25:21.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\MigrationsRevise\\MigrationsRevise\\Program.cs",
-              "RelativeDocumentMoniker": "MigrationsRevise\\Program.cs",
-              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\MigrationsRevise\\MigrationsRevise\\Program.cs",
-              "RelativeToolTip": "MigrationsRevise\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T16:09:34.301Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
