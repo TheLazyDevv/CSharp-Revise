@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\Loadings_ExplicitLoading_Revise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303A78DE-B8A1-40B6-91AF-7BF7D68BB4E2}|Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\loadings_explicitloading_revise\\loadings_explicitloading_revise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303A78DE-B8A1-40B6-91AF-7BF7D68BB4E2}|Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise.csproj|solutionrelative:loadings_explicitloading_revise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303A78DE-B8A1-40B6-91AF-7BF7D68BB4E2}|Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\loadings_explicitloading_revise\\loadings_explicitloading_revise\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303A78DE-B8A1-40B6-91AF-7BF7D68BB4E2}|Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise.csproj|solutionrelative:loadings_explicitloading_revise\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303A78DE-B8A1-40B6-91AF-7BF7D68BB4E2}|Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\loadings_explicitloading_revise\\loadings_explicitloading_revise\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303A78DE-B8A1-40B6-91AF-7BF7D68BB4E2}|Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise.csproj|solutionrelative:loadings_explicitloading_revise\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303A78DE-B8A1-40B6-91AF-7BF7D68BB4E2}|Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\loadings_explicitloading_revise\\loadings_explicitloading_revise\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303A78DE-B8A1-40B6-91AF-7BF7D68BB4E2}|Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise.csproj|solutionrelative:loadings_explicitloading_revise\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Loadings_ExplicitLoading_Revise\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise\\ApplicationContext.cs",
+              "RelativeToolTip": "Loadings_ExplicitLoading_Revise\\ApplicationContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:25:48.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise\\Group.cs",
+              "RelativeDocumentMoniker": "Loadings_ExplicitLoading_Revise\\Group.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise\\Group.cs",
+              "RelativeToolTip": "Loadings_ExplicitLoading_Revise\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:25:22.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise\\Student.cs",
+              "RelativeDocumentMoniker": "Loadings_ExplicitLoading_Revise\\Student.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise\\Student.cs",
+              "RelativeToolTip": "Loadings_ExplicitLoading_Revise\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:25:18.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise\\Program.cs",
+              "RelativeDocumentMoniker": "Loadings_ExplicitLoading_Revise\\Program.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\Loadings_ExplicitLoading_Revise\\Loadings_ExplicitLoading_Revise\\Program.cs",
+              "RelativeToolTip": "Loadings_ExplicitLoading_Revise\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T12:15:36.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

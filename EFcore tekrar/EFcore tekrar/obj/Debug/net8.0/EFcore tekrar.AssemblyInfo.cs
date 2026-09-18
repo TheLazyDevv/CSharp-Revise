@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EFcore tekrar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edb45b0153d3a6b0d0d5784773a891d07897165a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39f85bbc2db5e8f13beeca5ab802095df93f7f15")]
 [assembly: System.Reflection.AssemblyProductAttribute("EFcore tekrar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EFcore tekrar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
