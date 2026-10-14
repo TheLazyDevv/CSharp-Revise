@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebAPIRevise\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T14:48:11.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Entities\\User.cs",
+              "RelativeToolTip": "WebAPIRevise\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T14:45:52.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\Program.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Program.cs",
+              "RelativeToolTip": "WebAPIRevise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T14:39:30.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
