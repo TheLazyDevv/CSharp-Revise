@@ -3,6 +3,49 @@
   "WorkspaceRootPath": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\dtos\\customerdtos\\adddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\dtos\\customerdtos\\adddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost/ECommerceDB/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +54,8 @@
       "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|c:\\users\\ibrahim\\source\\repos\\revise\\webapirevise\\webapirevise\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B09890-3F82-4F07-BDF3-2E27FF4942C3}|WebAPIRevise\\WebAPIRevise.csproj|solutionrelative:webapirevise\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +65,183 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\DTOs\\CustomerDTOs\\AddDTO.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\DTOs\\CustomerDTOs\\AddDTO.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\DTOs\\CustomerDTOs\\AddDTO.cs",
+              "RelativeToolTip": "WebAPIRevise\\DTOs\\CustomerDTOs\\AddDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:45:16.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Customers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost/ECommerceDB/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "dbo.Customers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-16T13:42:58.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebAPIRevise\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:37:01.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Services\\CustomerService.cs",
+              "RelativeToolTip": "WebAPIRevise\\Services\\CustomerService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:32:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "WebAPIRevise\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:27:05.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "WebAPIRevise\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:15:50.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebAPIRevise\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:13:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "WebAPIRevise\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T13:03:32.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Entities\\Customer.cs",
+              "RelativeToolTip": "WebAPIRevise\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:58:39.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIRevise\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\appsettings.json",
+              "RelativeToolTip": "WebAPIRevise\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-16T12:26:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "WebAPIRevise\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "WebAPIRevise\\DTOs\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T12:25:50.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WebAPIRevise\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Controllers\\UserController.cs",
               "RelativeToolTip": "WebAPIRevise\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA5wEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T14:48:11.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Entities\\User.cs",
               "RelativeDocumentMoniker": "WebAPIRevise\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Entities\\User.cs",
               "RelativeToolTip": "WebAPIRevise\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T14:45:52.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Program.cs",
               "RelativeDocumentMoniker": "WebAPIRevise\\Program.cs",
               "ToolTip": "C:\\Users\\Ibrahim\\source\\repos\\Revise\\WebAPIRevise\\WebAPIRevise\\Program.cs",
               "RelativeToolTip": "WebAPIRevise\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T14:39:30.416Z",
               "EditorCaption": ""
